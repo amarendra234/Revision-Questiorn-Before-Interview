@@ -2,3 +2,6 @@
 2- Quick Sort  =>codewithmik
 3- Merge two sorted Array(space optimization) =>Striver
 4- Median of two Sorted Array- codeWithmik
+5- Longest Subarray Sum (zer0+positive) =>2 Pointer Approach
+6- Longest Subarray Sum (postive+negative+zero) => Hashmap
+
